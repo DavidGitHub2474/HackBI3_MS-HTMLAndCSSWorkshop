@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# HackBI Middle School HTML Workshop
+> This HTML Workshop is about the basic fundamentals of HTMl and CSS. See your cheat sheet for more information. 
 
-You can use the [editor on GitHub](https://github.com/CouchPotato2474/Baseball/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Getting Started
+1. Open Sublime Text
+2. Click "File" on the top left> Save As>File Name: index.html
+3. Click "File" on the top left> Save As> File Name: style.css
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Web Page: https://github.com/CouchPotato2474/Baseball/blob/master/index.html
+## Uses
+HTML (HyperText Markup Language) is used to create the basic structure of Websites. CSS is used to creatively design web pages using Creative Styling Sheets (CSS)
 
-### Markdown
+## Purpose
+This workshop is aimed to provide a better understanding of HTML and CSS and to supply enough information to help create their own web page using HTML and CSS. Some topics include HTML elements, HTML attributes, How to create and use a CSS file, and How to use the class attribute to efficiently style web pages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CouchPotato2474/Baseball/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Goal
+This workshop's goal is to leave students with enough knowledge to create their own web sites using CSS and HTML.
