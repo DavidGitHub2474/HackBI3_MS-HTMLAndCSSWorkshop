@@ -1,5 +1,5 @@
 # HackBI Middle School HTML Workshop
-> This HTML Workshop is about the basic fundamentals of HTMl and CSS. See your cheat sheet for more information. 
+> This HTML Workshop is about the basic fundamentals of HTMl and CSS. HTMl stands for Hypertext Markup Language and CSS stands for Cascading Style Sheets. 
 
 ## Getting Started
 1. Open Sublime Text
