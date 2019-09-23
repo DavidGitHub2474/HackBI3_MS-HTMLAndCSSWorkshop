@@ -11,7 +11,7 @@ The Web Page: https://github.com/CouchPotato2474/Baseball/blob/master/index.html
 HTML (HyperText Markup Language) is used to create the basic structure of Websites. CSS is used to creatively design web pages using Creative Styling Sheets (CSS)
 
 ## Purpose
-This workshop is aimed to provide a better understanding of HTML and CSS and to supply enough information to help create their own web page using HTML and CSS. Some topics include HTML elements, HTML attributes, How to create and use a CSS file, and How to use the class attribute to efficiently style web pages.
+This workshop is aimed to provide a better understanding of HTML and CSS and to supply enough information to help students create their own web page using HTML and CSS. Some topics include HTML elements, HTML attributes, How to create and use a CSS file, and How to use the class attribute to efficiently style web pages.
 
 ## Goal
 This workshop's goal is to leave students with enough knowledge to create their own web sites using CSS and HTML.
