@@ -1,110 +1,200 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <!-- Declared the file as an html file -->
 <html>
   <head>
-    <title>
-      Baseball Webpage
-    </title>
+    <link href="./style.css" type="text/css" rel="stylesheet"> <!-- Linked the style.css file to the index.html file -->
+        <title> 
+          Baseball Web Page
+        </title> <!-- titled the web page to "Baseball Web Page" -->
   </head>
-<body>
-        <nav> 
-        <ul>
+  <body>
+    <nav> <!-- Created a navigation bar with the text "Home" and "Contact Us" -->
+        <ul> 
             Home
             Contact Us
         </ul>
-    </nav>    <h1> <span style="color: red"> Baseball </span> </h1>
-<div id= "introduction"> 
-    <h3><STRONG>History of Baseball</STRONG></h3>
-</div>
-      <img src="http://www.britishmuseum.org/images/museum_main_entrance_135693001_304x176.jpg"/>
-    <p>Although the origin of baseball is unknown, humans have played games with a bat and a ball since the times of Ancient Egypt.  <br> A ball used 2000 thousand years ago is on exhibit in the British Museum located in London. </p>
-  <div>
-<div id= "Hall of Famers">   
-  <h3><STRONG>Hall of Famers</STRONG></h3>
-</div>
-    <video width="320" height="240" controls>
-      <source src="https://youtu.be/zCfFe5_kqig">    
-    </video> 
-  <br>
-  The first hall of fame election was completed in the year 1936. Some Hall of Famers include:
-  <ul>
-    <li><a href="https://baseballhall.org/hall-of-famers/banks-ernie" target ="_blank"> <STRONG>Banks, Ernie</STRONG> </a> <br>Year Inducted:<em>1977</em> <br> Primary Team: <em>Chicago Cubs</em></li>
-    <li><a href="https://baseballhall.org/hall-of-famers/burkett-jesse" target ="_blank"> <STRONG>Burkett, Jesse</STRONG> </a> <br> Year Inducted: <em>1946</em> <br> Primary Team: <em>Cleveland Spiders</em></li>
-    <li><a href="https://baseballhall.org/hall-of-famers/chadwick-henry" target ="_blank"> <STRONG>Chadwick, Henry</STRONG> </a> <br> Year Inducted: <em>1936</em> <br> Primary Team: <em>Executive</em></li>
-    <li><a href="https://baseballhall.org/hall-of-famers/clemente-roberto" target ="_blank"> <STRONG>Clemente, Roberto</STRONG> </a> <br> Year Inducted: <em>1973</em> <br> Primary Team: <em>Pittsburgh Pirates</em></li>
-    <li><a href="https://baseballhall.org/hall-of-famers/foster-rube" target ="_blank"> <STRONG>Foster, Rube</STRONG> </a> <br> Year Inducted: <em>1981</em> <br> Primary Team: <em>Manager</em></li>
-  </ul>
-<div id="Popular Teams">
-  <h3><STRONG>Popular Teams</STRONG></h3>
-</div>
-  <ol>
-    <li><STRONG>The Nationals</STRONG> <br> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Washington_Nationals_logo.svg/150px-Washington_Nationals_logo.svg.png"> 
-      <br> <em>Washington DC</em> <br> </li> 
-    <li><STRONG>Phillies</STRONG> <br> <em>Philladelphia</em> <br> </li>
-    <li><STRONG>Braves</STRONG> <br> <em>Atlanta</em> <br> </li>
-    <li><STRONG>Mets</STRONG> <br> <em> New York</em> <br> </li>
-    <li><STRONG>Marlins</STRONG> <br> <em>Miami</em> <br> </li>
-  </ol>
-  <div> 
-<div id= "Famous Stadiums">
-    <h3><STRONG>Famous Stadiums</STRONG></h3>
-</div>
-  <ol>
-    <li><STRONG>Chase Field</STRONG> <br> <em>Phoenix, Arizona</em> <br> </li>
-    <li><STRONG>Great American Ball Park</STRONG> <br> <em>Cincinnati, Ohio</em> <br> </li>
-    <li><STRONG>Marlins Park</STRONG> <br> <em>Miami, Florida</em> <br> </li>
-    <li><STRONG>Kauffman Stadium</STRONG> <br> <em>Kansas City, Missouri</em> <br> </li>
-    <li><STRONG>Nationals Park</STRONG> <br> <em>Washington, DC</em> <br> </li>
-  </ol>
-  <div>
-  <div id= "Outfielders Table">
-      <h3><STRONG>Washington Nationals' Outfielders</STRONG></h3>
-  </div>
-  <table style = "width 100%">
-      <tr> <!-- Created 1 row of 3 headings (columns) -->
-          <th> 
-              Number 
-          </th>
-          <th> 
-              Player 
-          </th>
-          <th>
-              Position 
-          </th>
-    </tr>
-    <tr> <!-- Filled out first row with Adam Eaton's information-->
-        <td> 
-            2  <!-- Filled out first slot in the "Number" column -->
-        </td>
-        <td> 
-            Adam Eaton <!-- Filled out first slot in "Player" column -->
-        </td>
-        <td> 
-            RF <!-- Filled out first slot in "Position" column -->
-        </td>
-    </tr>
-    <tr> <!-- Filled out second row with Victor Robles' information -->
-        <td> 
-            16
-        </td>
-        <td>
-            Victor Robles
-        </td>
-        <td>
-            CF
-        </td>
-    </tr>
-    <tr> <!-- Filled out third row with Juan Soto's information -->
-        <td>
-            22
-        </td>
-        <td> 
-            Juan Soto
-        </td>
-        <td> 
-            LF 
-       </td>
-    </tr>
-  </table>
-</body>
+    </nav>   
+    <div class="boxPageTitle"> 
+        <h1> 
+            BASEBALL 
+        </h1> 
+    </div>
+        <h3 class="smallHeader"> 
+            History of Baseball 
+        </h3>
+            <img src="http://www.britishmuseum.org/images/ <museum_main_entrance_135693001_304x176.jpg"/> <!-- put in an image of the museum into the web page -->
+        <p>
+            Although the origin of baseball is unknown, humans have played games with a bat and a ball since the times of Ancient Egypt.  <br> A ball used 2000 thousand years ago is on exhibit in the British Museum located in London. 
+        </p> <!-- Created a paragraph describing the origin of baseball -->
+        <h3 class="smallHeader">
+            Hall of Famers
+        </h3>
+        <video width="320" height="240" controls> 
+            <source src="mp4/MLB-Best-Plays.mp4">    
+       </video> <!-- Put in a video into the web page -->
+          <br>
+          The first hall of fame election was completed in the year 1936. Some Hall of Famers include:
+          <!-- Created links for each hall of famer that led to web pages with information of each player --> <ul>
+            <li> 
+                <a 
+                    href="https://baseballhall.org/hall-of-famers/banks-ernie" target ="_blank"> Banks, Ernie
+                </a> <!-- turned the text "Banks, Ernie" into a clickable link to a web page -->
+                <br>
+                    Year Inducted:1977
+                <br> 
+                Primary Team: Chicago Cubs
+            </li>
+            <li>
+                <a 
+                    href="https://baseballhall.org/hall-of-famers/burkett-jesse" target ="_blank"> Burkett, Jesse
+                </a> <!-- turned the text "Burkett, Jesse" into a clickable link -->
+                <br> Year Inducted: 1946 <br> 
+                Primary Team: Cleveland Spiders
+            </li>
+            <li>
+                <a 
+                    href="https://baseballhall.org/hall-of-famers/chadwick-henry" target ="_blank"> Chadwick, Henry 
+                </a> <!-- turned the text "Chadwick, Henry" into a clickable link -->
+                <br>Year Inducted: 1936<br> 
+                Primary Team: Executive
+            </li>
+            <li>
+                <a 
+                    href="https://baseballhall.org/hall-of-famers/clemente-roberto" target ="_blank"> Clemente, Roberto
+                </a> <!-- turned the text "Clemente, Roberto" into a clickable link -->
+                <br> Year Inducted:1973 <br> 
+                Primary Team: Pittsburgh Pirates
+            </li>
+            <li>
+                <a 
+                    href="https://baseballhall.org/hall-of-famers/foster-rube" target ="_blank"> Foster, Rube
+                </a> <!-- turned the text "Foster, Rube" into a clickable link -->
+                <br> Year Inducted: 1981 <br> 
+                Primary Team: Manager
+            </li>
+          </ul>
+        <div id="Popular Teams"> <!-- identified the header as "Popular Teams" -->
+            <h3 class="smallHeader">Popular Teams</h3> <!-- Classified the text "Popular Teams" as a small header -->
+        </div>
+        <ol>
+            <li>
+                <div class="teamName">
+                    The Nationals
+                </div>
+                <br> 
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Washington_Nationals_logo.svg/150px-Washington_Nationals_logo.svg.png"> 
+                <br> 
+                    <em>Washington DC</em> 
+                <br> 
+            </li> 
+            <li>
+                <STRONG>
+                    Phillies
+                </STRONG> 
+                <br> 
+                <em>
+                    Philladelphia
+                </em> 
+            </li>
+            <li>
+                <STRONG>
+                    Braves
+                </STRONG> 
+                <br> 
+                <em>
+                    Atlanta
+                </em>  
+            </li>
+            <li>
+                <STRONG>
+                    Mets
+                </STRONG> 
+                <br> 
+                <em>
+                    New York
+                </em>  
+            </li>
+            <li>
+                <STRONG>
+                    Marlins
+                </STRONG> <br> 
+                <em>
+                    Miami
+                </em> 
+            </li>
+        </ol>
+            <h3 class="smallHeader">Famous Stadiums</h3>
+        <ol>
+            <li>
+               
+                    <a href= 'https://www.mlb.com/dbacks/ballpark' class="button" target="_blank"> <!-- target="_blank" opens site on new tab-->
+                        Chase Field 
+                    </a>
+                <br> 
+                    <em>Phoenix, Arizona</em> 
+                <br> 
+            </li>
+            <li>
+                <STRONG>Great American Ball Park</STRONG> <br> <em>Cincinnati, Ohio</em> <br> 
+            </li>
+            <li>
+                <STRONG>Marlins Park</STRONG> <br> <em>Miami, Florida</em> <br> 
+            </li>
+            <li>
+              <STRONG>Kauffman Stadium</STRONG> <br> <em>Kansas City, Missouri</em> <br> 
+            </li>
+            <li>
+                <STRONG>Nationals Park</STRONG> <br> <em>Washington, DC</em> <br> 
+            </li>
+        </ol>
+        <div>
+        <div id= "Outfielders Table">
+            <h3 class="smallHeader">Washington Nationals' Outfielders</h3>
+        </div>
+        <table style = "width 100%">
+            <tr> <!-- Created 1 row of 3 headings (columns) -->
+                <th> 
+                    Number 
+                </th>
+                <th> 
+                    Player 
+                </th>
+                <th>
+                    Position 
+                </th>
+            </tr>
+            <tr> <!-- Filled out first row with Adam Eaton's information-->
+                <td> 
+                    2  <!-- Filled out first slot in the "Number" column -->
+                </td>
+                <td> 
+                    Adam Eaton <!-- Filled out first slot in "Player" column -->
+                </td>
+                <td> 
+                    RF <!-- Filled out first slot in "Position" column -->
+                </td>
+            </tr>
+            <tr> <!-- Filled out second row with Victor Robles' information -->
+                <td> 
+                    16
+                </td>
+                <td>
+                    Victor Robles
+                </td>
+                <td>
+                    CF
+                </td>
+            </tr>
+            <tr> <!-- Filled out third row with Juan Soto's information -->
+                <td>
+                    22
+                </td>
+                <td> 
+                    Juan Soto
+                </td>
+                <td> 
+                    LF 
+               </td>
+            </tr>
+        </table>
+    </body>
 </html>
-
