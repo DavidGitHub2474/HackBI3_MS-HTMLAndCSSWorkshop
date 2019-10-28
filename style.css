@@ -10,7 +10,7 @@ body{
   to the right (2nd 0px), to the bottom of (3rd 0px), nor to the left (last 0px)
   of whatever is inside the "box" class*/
     text-align: center; 
-    background-image: url(img/baseball-player.jpg);
+    background-image: url(img/baseball-background.jpg);
     font-size: 20px;
     background-repeat: no-repeat;
     background-size: contain;/*fills whole space, makes sure entire image seen*/
