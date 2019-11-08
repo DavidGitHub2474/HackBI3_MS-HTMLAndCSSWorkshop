@@ -24,12 +24,12 @@ https://www.codecademy.com/learn/learn-html 	Use to practice exercises using HTM
 https://www.google.com/url?sa=i&url=https%3A%2F%2Ffineartamerica.com%2Ffeatured%2Fold-vintage-baseball-background-shallow-focus-suzanne-tucker.html&psig=AOvVaw0-3hZuUz6AvYG-l6KPAL3D&ust=1573267695050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICg_YbN2eUCFQAAAAAdAAAAABAD
 
 ## Links to Hall of Famers (Demonstration)
-Link to Banks Ernie, Image https://baseballhall.org/hall-of-famers/banks-ernie
-Link to Burkette, Jesse Image https://baseballhall.org/hall-of-famers/burkett-jesse
-Link to Chadwick, Henry Image https://baseballhall.org/hall-of-famers/chadwick-henry
-Link to Clemente, Roberto Image https://baseballhall.org/hall-of-famers/clemente-roberto
-Link to Foster, Rube Image https://baseballhall.org/hall-of-famers/foster-rube
+1. Link to Banks Ernie, Image https://baseballhall.org/hall-of-famers/banks-ernie
+2. Link to Burkette, Jesse Image https://baseballhall.org/hall-of-famers/burkett-jesse
+3. Link to Chadwick, Henry Image https://baseballhall.org/hall-of-famers/chadwick-henry
+4. Link to Clemente, Roberto Image https://baseballhall.org/hall-of-famers/clemente-roberto
+5. Link to Foster, Rube Image https://baseballhall.org/hall-of-famers/foster-rube
 
 ## Links to Famous Baseball Stadiums (Demonstration)
-Link to Chase Field  https://www.mlb.com/dbacks/ballpark
+1. Link to Chase Field  https://www.mlb.com/dbacks/ballpark
 
