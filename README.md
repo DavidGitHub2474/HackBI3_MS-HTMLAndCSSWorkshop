@@ -17,3 +17,19 @@ This workshop is aimed to provide a better understanding of HTML and CSS and to 
 This workshop's goal is to leave students with enough knowledge to create their own web sites using CSS and HTML.
 ## Further Learning
 https://www.codecademy.com/learn/learn-html 	Use to practice exercises using HTML
+
+# Presentation  Links
+
+## Baseball Background Image
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ffineartamerica.com%2Ffeatured%2Fold-vintage-baseball-background-shallow-focus-suzanne-tucker.html&psig=AOvVaw0-3hZuUz6AvYG-l6KPAL3D&ust=1573267695050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICg_YbN2eUCFQAAAAAdAAAAABAD
+
+## Links to Hall of Famers (Demonstration)
+Link to Banks Ernie, Image https://baseballhall.org/hall-of-famers/banks-ernie
+Link to Burkette, Jesse Image https://baseballhall.org/hall-of-famers/burkett-jesse
+Link to Chadwick, Henry Image https://baseballhall.org/hall-of-famers/chadwick-henry
+Link to Clemente, Roberto Image https://baseballhall.org/hall-of-famers/clemente-roberto
+Link to Foster, Rube Image https://baseballhall.org/hall-of-famers/foster-rube
+
+## Links to Famous Baseball Stadiums (Demonstration)
+Link to Chase Field  https://www.mlb.com/dbacks/ballpark
+
