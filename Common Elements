@@ -1,0 +1,61 @@
+1. <p> </p>- The paragraph tag is used to display more than one sentence on a webpage
+2. <div> </div> - The <div> tag divides code. Often used with CSS and the class attribute to style websites
+3. <div class= “main”>
+...code in class "main" here...
+</div>
+4. <h1> </h1> - Header tags enlarge and bold the words they surround. <h1> is the largest header. <h6> is the smallest header.
+5. <span> </span> - Span tags separate code on the same line without necessarily changing the appearance of the words on the web page. 
+CSS inline styling can be used directly with <span> tags to change the appearance of text 
+<span style= “color:red”> Title </span> 
+→ Title
+<ol> </ol> - The ordered list tag is used to create numbered lists
+<ol> 
+<li>Preheat oven to 400 degrees</li>
+<li> Prepare ingredients</li>
+<li>Bake</li>
+</ol>
+→ 1. Preheat oven to 400 degrees
+     2. Prepare Ingredients
+     3. Bake
+<ul> </ul>- The unordered list tag is used to create lists with bullet points
+<ul> 
+<li>Potatoes</li>
+<li>Broccoli</li>
+<li>Carrots</li>
+</ul>
+Potatoes
+Broccoli
+Carrots
+
+
+<li> </li> - The <li> tag is used within the <ol> tag and the <ul> tag. The <li> tag defines a list item
+<br> </br>- creates a line break in the code 
+(What it looks like in index.html) Hack BI is amazing because it <br> gives you the opportunity to <br> develop basic and advanced skills with coding.
+(What is looks like in a Web Page) Hack BI is amazing because it
+gives you the opportunity to
+develop basic and advanced skills with coding.
+<img> - the image tag is used for putting images into your webpage. It is called a self closing tag because it doesn’t use a closing tag.
+<img src=“My Favority Picture.png” 
+height= “340”
+width= “620”
+/>
+<video> </video>- the video tag is used for displaying videos that you have either hosted yourself on your own webpage or linked to from another webpage
+The video element uses 5 attributes: height, width, source src (source link), and controls 
+Height and width allow you to change the height and width of the video window
+source src allows you to link to the video you would like to display
+controls allows you to pause and play the video
+type: specifies different video formats. This attribute is not required to play a video
+<video width= ‘320” height= “240” controls> 
+<source src= “video.mp4”>
+type= “video/mp4”
+</video>
+<head> </head>- used to store metadata (unseen information in HTML). The <head> tag can be used to create the title of a webpage
+<a> </a> - This is the anchor tag. The anchor tag defines a hyperlink. Hyperlinks are typically clickable links that send a user from a hypertext file to another file or location
+href - This is the attribute most commonly used with the anchor (<a>) tag. The href attribute indicates the source of the hyperlink.
+<a href= “www.PandaWebsite.org” > Panda Website </a>
+→ Panda Website
+<!DOCTYPE html> - The <!DOCTYPE html> tag is a self closing tag that indicates to the web browser that the document is in html format
+<body> </body>- Body tags contain the visible content of a web page
+<meta charset="utf-8"/> - This element just tells the web browser which character set is being used
+A character set is a list of characters (letters) recognized by the computer 
+In this scenario, utf-8 is the character set
