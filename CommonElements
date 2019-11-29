@@ -1,16 +1,18 @@
-1. <p> </p>- The paragraph tag is used to display more than one sentence on a webpage
+1. <p> </p>- The paragraph tag is used to hold text that is displayed in a website.
+It is customary to put text with more than one sentence in this element.
 
-2. <div> </div> - The <div> tag divides code. Often used with CSS and the class attribute to style websites
-
-3. <div class= “main”>
-...code in class "main" here...
-</div>
+2. <div> </div> - The <div> tag divides code. Often used with CSS and the  "class" attribute to style websites
+     Example:
+     <div class= “main”>
+     ...code in class "main" here...
+     </div>
 
 4. <h1> </h1> - Header tags enlarge and bold the words they surround. <h1> is the largest header. <h6> is the smallest header.
 
 5. <span> </span> - Span tags separate code on the same line without necessarily changing the appearance of the words on the web page. 
 
 6. <ol> </ol> - The ordered list tag is used to create numbered lists
+     Example:
      <ol> 
           <li>Preheat oven to 400 degrees</li>
           <li> Prepare ingredients</li>
@@ -21,26 +23,28 @@
 
 8. <li> </li> - The <li> tag is used within the <ol> tag and the <ul> tag. The <li> tag defines a list item
 
-9. <img> - the image tag is used for putting images into your webpage. It is called a self closing tag because it doesn’t use a closing tag.
-<img src=“My Favority Picture.png” 
-height= “340”
-width= “620”
-/>
+9. <img> - the image element is used for putting images into your webpage. It is called a self closing tag because it doesn’t use a closing tag.
+     Example:
+     <img src=“My Favority Picture.png” 
+     height= “340”
+     width= “620”
+     />
 
 10. <video> </video>- the video tag is used for displaying videos that you have either hosted yourself on your own webpage or linked to from another webpage
+     Example:
      <video width= ‘320” height= “240” controls> 
      <source src= “video.mp4”>
      type= “video/mp4”
      </video>
 
-11. <head> </head>- used to store metadata (unseen information in HTML). The <head> tag can be used to create the title of a webpage
+11. <head> </head>- used to store metadata (data about data). The <head> tag can be used to create the title of a webpage displayed in the tab bar. 
 
 12. <a> </a> - This is the anchor tag. The anchor tag defines a hyperlink. Hyperlinks are typically clickable links that send a user from a hypertext file to another file or location
 
 13. href - This is the attribute most commonly used with the anchor (<a>) tag. The href attribute indicates the source of the hyperlink.
-<a href= “www.PandaWebsite.org” > Panda Website </a>
-→ Panda Website
-
+     Example:
+     <a href= “www.PandaWebsite.org” > Panda Website </a>
+     
 14. <!DOCTYPE html> - The <!DOCTYPE html> tag is a self closing tag that indicates to the web browser that the document is in html format
 
 15. <body> </body>- Body tags contain the visible content of a web page
