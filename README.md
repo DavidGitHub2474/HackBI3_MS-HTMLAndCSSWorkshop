@@ -17,6 +17,7 @@ This workshop is aimed to provide a better understanding of HTML and CSS and to 
 This workshop's goal is to leave students with enough knowledge to create their own web sites using CSS and HTML.
 ## Further Learning
 https://www.codecademy.com/learn/learn-html 	Use to practice exercises using HTML
+- I have created a packet with some extra html information that may not have been discussed in the workshop. Please ask me if and I will give you the packet. 
 
 # Presentation  Links
 
